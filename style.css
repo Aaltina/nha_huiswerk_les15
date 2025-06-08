@@ -54,6 +54,8 @@ footer{
     width: 25%;
 }
 img{
+    float: right;
+    width: 15%;
     margin: 10px;
    
 }

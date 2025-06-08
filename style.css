@@ -54,6 +54,7 @@ footer{
     width: 25%;
 }
 img{
+    display:inline;
     float: right;
 }
 th{

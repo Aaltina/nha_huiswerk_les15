@@ -54,7 +54,8 @@ footer{
     width: 25%;
 }
 img{
-    margin: 10px; 
+    margin: 15px; 
+    width: 15%;
     border-radius: 5px;
     border: solid;
     border-color: dodgerblue;

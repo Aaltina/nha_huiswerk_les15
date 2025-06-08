@@ -1,0 +1,110 @@
+header{
+    background-color:rgb(61, 43, 228);
+    height:100px;
+    color: white;
+    border-color: darkblue;
+    border-radius: 5px;
+    border-style: solid;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+}
+ul a {
+    color: white;
+    text-decoration: none;
+}
+li{
+    display: inline-block;
+    height:25px;
+    width: 75px;
+    padding: 15px;
+    margin-top: 5px;
+    text-align: center;
+    background-color: dodgerblue;
+    border: solid;
+    border-color: darkblue;
+    border-radius: 5px;
+    box-shadow: inset 2px 2px 2px darkblue;
+}
+li:hover, button:active{
+    background-color: brown;
+}
+div{
+    background-color: aliceblue;
+    margin: 10px;
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 10px;
+}
+footer{
+    background-color: darkblue;
+    padding: 10px;
+    height: 40px;
+    color:white;
+    border-color: dodgerblue;
+    border-radius: 5px;
+    border-style: solid;
+    font-size: small;
+    }
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+img{
+    margin: 10px; 
+}
+th{
+    background-color: dodgerblue;
+    font-weight: bold;
+    padding: 5px;
+}
+table{
+   border-collapse: collapse;
+   width: 1000px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: aliceblue;
+   
+}
+td{
+    padding: 15px; 
+}
+input[type="text"], input[type="email"], textarea, button{
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    width: 450px;
+    box-sizing: border-box; 
+    border-style: solid 3px;
+    border-color: darkblue;
+    border-radius: 5px;
+    box-shadow: inset 1px 1px 1px darkblue;
+    background-color: aliceblue;
+}
+textarea{
+    height: 275px;
+    border-color: darkblue;
+    border-radius: 5px;  
+}
+h1{
+    background: dodgerblue;
+    border: solid;
+    border-color: darkblue;
+    border-radius: 5px;
+    text-align: center;
+}
+button{
+    background-color: dodgerblue;
+    border-color: darkblue;
+    border-radius: 5px;
+    box-shadow: inset 2px 2px 2px darkblue;
+    height: 40px;
+    color: white;
+    font-size: large;
+}
+

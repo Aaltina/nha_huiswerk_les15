@@ -55,6 +55,9 @@ footer{
 }
 img{
     margin: 10px; 
+    border-radius: 5px;
+    border: solid;
+    border-color: darkblue;
 }
 th{
     background-color: dodgerblue;
